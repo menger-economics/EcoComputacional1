@@ -4,7 +4,7 @@ Programa: "Imprime a soma de dois números"
 Descrição: Este programa imprime a soma de dois números
 Autor: Antônio Menger
 Data: 21/04/2024
-Versão: 0.0.2
+Versão: 0.0.1
 """
 
 # 1. Alocação de memória
